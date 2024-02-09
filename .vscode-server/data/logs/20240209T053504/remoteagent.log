@@ -1,0 +1,30 @@
+2024-02-09 05:35:04.706 [info] 
+
+
+
+
+2024-02-09 05:35:04.706 [info] Extension host agent started.
+2024-02-09 05:35:04.706 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student/.vscode-server/extensions
+2024-02-09 05:35:04.725 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student/.vscode-server/extensions
+2024-02-09 05:35:20.854 [info] [127.0.0.1][0103c991][ManagementConnection] New connection established.
+2024-02-09 05:35:21.059 [info] [127.0.0.1][340af1d3][ExtensionHostConnection] New connection established.
+2024-02-09 05:35:21.065 [info] [127.0.0.1][340af1d3][ExtensionHostConnection] <1356> Launched Extension Host Process.
+2024-02-09 05:36:24.239 [info] [127.0.0.1][0103c991][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-09 05:36:24.272 [info] [127.0.0.1][340af1d3][ExtensionHostConnection] <1356> Extension Host Process exited with code: 0, signal: null.
+2024-02-09 05:36:24.272 [info] Cancelling previous shutdown timeout
+2024-02-09 05:36:24.272 [info] Last EH closed, waiting before shutting down
+2024-02-09 05:39:09.797 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-09 05:39:09.797 [info] Cancelling previous shutdown timeout
+2024-02-09 05:39:14.869 [info] [127.0.0.1][c5a6ac58][ManagementConnection] New connection established.
+2024-02-09 05:39:15.077 [info] [127.0.0.1][ace54096][ExtensionHostConnection] New connection established.
+2024-02-09 05:39:15.096 [info] [127.0.0.1][ace54096][ExtensionHostConnection] <1531> Launched Extension Host Process.
+2024-02-09 05:39:26.546 [info] [127.0.0.1][c5a6ac58][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-09 05:39:26.569 [info] [127.0.0.1][ace54096][ExtensionHostConnection] <1531> Extension Host Process exited with code: 0, signal: null.
+2024-02-09 05:39:26.569 [info] Cancelling previous shutdown timeout
+2024-02-09 05:39:26.569 [info] Last EH closed, waiting before shutting down
+2024-02-09 05:39:41.544 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-09 05:39:41.544 [info] Cancelling previous shutdown timeout
+2024-02-09 05:39:41.943 [info] [127.0.0.1][01cab30a][ManagementConnection] New connection established.
+2024-02-09 05:39:42.155 [info] [127.0.0.1][a24a0b75][ExtensionHostConnection] New connection established.
+2024-02-09 05:39:42.167 [info] [127.0.0.1][a24a0b75][ExtensionHostConnection] <1666> Launched Extension Host Process.
+2024-02-09 05:44:41.545 [info] New EH opened, aborting shutdown
