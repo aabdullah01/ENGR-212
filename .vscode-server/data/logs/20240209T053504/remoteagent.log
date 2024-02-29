@@ -28,3 +28,6 @@
 2024-02-09 05:39:42.155 [info] [127.0.0.1][a24a0b75][ExtensionHostConnection] New connection established.
 2024-02-09 05:39:42.167 [info] [127.0.0.1][a24a0b75][ExtensionHostConnection] <1666> Launched Extension Host Process.
 2024-02-09 05:44:41.545 [info] New EH opened, aborting shutdown
+2024-02-09 06:13:56.524 [info] [127.0.0.1][01cab30a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-09 06:13:56.575 [info] [127.0.0.1][a24a0b75][ExtensionHostConnection] <1666> Extension Host Process exited with code: 0, signal: null.
+2024-02-09 06:13:56.576 [info] Last EH closed, waiting before shutting down

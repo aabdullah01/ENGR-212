@@ -1,0 +1,13 @@
+2024-02-24 07:14:03.959 [info] Log level: Info
+2024-02-24 07:14:03.959 [info] Validating found git in: "git"
+2024-02-24 07:14:03.959 [info] Using git "2.34.1" from "git"
+2024-02-24 07:14:03.977 [info] > git rev-parse --show-toplevel [45ms]
+2024-02-24 07:14:03.991 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-24 07:14:04.002 [info] Open repository: /home/student/ENGR212_Abdullah_Abdulaziz
+2024-02-24 07:14:04.019 [info] > git config --get commit.template [7ms]
+2024-02-24 07:14:04.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2024-02-24 07:14:04.094 [info] > git status -z -uall [38ms]
+2024-02-24 07:14:04.117 [info] > git config --get commit.template [5ms]
+2024-02-24 07:14:04.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-24 07:14:04.124 [info] > git status -z -uall [2ms]
+2024-02-24 07:14:04.564 [info] > git check-ignore -v -z --stdin [1ms]
