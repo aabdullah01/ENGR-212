@@ -1,0 +1,690 @@
+2024-03-09 20:31:16.906 [info] Extension host with pid 1325 started
+2024-03-09 20:31:16.928 [info] Lock '/home/student/.vscode-server/data/User/workspaceStorage/63e31fa26b97c3d038b73ad41de3ba4a/vscode.lock': Lock acquired.
+2024-03-09 20:31:17.057 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-09 20:31:17.156 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-09 20:31:17.156 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-09 20:31:17.488 [info] Eager extensions activated
+2024-03-09 20:31:17.489 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-09 20:31:17.489 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-09 20:31:17.927 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:18.014 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:18.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.312 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.314 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.314 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.315 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.315 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.316 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.316 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.317 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.318 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.318 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.319 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.319 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.319 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.320 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.320 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.321 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.321 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.321 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.322 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.322 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.322 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.322 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.323 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.323 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.323 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.323 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.324 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.324 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.324 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.324 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.325 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.325 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.325 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.326 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.326 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.326 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.326 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.327 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.327 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:19.327 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1021375)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-03-09 20:31:21.169 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:34.373 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:39.456 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:44.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:51.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:31:56.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:32:02.186 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:32:07.271 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:32:12.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:32:17.432 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:32:32.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:32:57.264 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:33:02.345 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:33:03.292 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-03-09 20:33:07.424 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:33:12.506 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:33:26.218 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:33:31.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:34:32.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:34:37.715 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:34:46.580 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:34:51.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:34:56.738 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:01.815 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:06.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:11.977 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:17.057 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:22.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:27.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:43.749 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:48.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:53.901 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:35:58.978 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:04.055 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:09.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:14.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:19.292 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:24.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:29.447 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:36:34.526 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:37:01.560 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:37:06.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:37:26.641 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:37:31.721 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:42:42.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:43:11.299 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:43:16.382 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:43:38.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:44:53.589 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:44:58.667 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:45:03.772 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:45:05.939 [warning] [Decorations] CAPPING events from decorations provider vscode.git 661
+2024-03-09 20:45:08.848 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:45:13.925 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:45:19.003 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:45:53.122 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:45:58.199 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:03.276 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:08.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:13.432 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:18.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:39.778 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:44.857 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:49.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:46:51.497 [warning] [Decorations] CAPPING events from decorations provider vscode.git 661
+2024-03-09 20:47:09.255 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:14.335 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:19.413 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:24.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:29.566 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:34.647 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:39.726 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:44.803 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:49.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:47:50.416 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2024-03-09 20:48:06.542 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:48:11.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:48:27.449 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:48:32.526 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:48:34.859 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2024-03-09 20:49:01.895 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:07.958 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:13.036 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:15.196 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2024-03-09 20:49:36.089 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:41.168 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:46.247 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:51.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:49:56.401 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:50:53.197 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:50:58.273 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:03.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:08.427 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:13.503 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:18.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:23.659 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:28.738 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:33.821 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:38.901 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:43.981 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:49.062 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:50.336 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2024-03-09 20:51:54.138 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:51:59.218 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:19.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:24.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:30.038 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:35.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:40.189 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:45.269 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:50.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:55.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:52:57.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2024-03-09 20:53:01.193 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:53:06.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:53:11.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:53:16.428 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:53:21.506 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:53:26.585 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1159
+2024-03-09 20:53:27.532 [info] Extension host terminating: received terminate message from renderer
+2024-03-09 20:53:27.533 [info] Lock '/home/student/.vscode-server/data/User/workspaceStorage/63e31fa26b97c3d038b73ad41de3ba4a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-09 20:53:27.563 [error] Canceled: Canceled
+	at new $ (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:943479)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:962791)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:7996)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:14091)
+	at u.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:17156)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:15608)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at p.acceptChunk (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11865)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11152)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19748) setContext undefined
+2024-03-09 20:53:27.564 [error] Canceled: Canceled
+	at new $ (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:943479)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:962791)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:7996)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:14091)
+	at u.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:17156)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:15608)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at p.acceptChunk (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11865)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11152)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19748) setContext undefined
+2024-03-09 20:53:27.564 [error] Canceled: Canceled
+	at new $ (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/github/dist/extension.js:2:325214)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/github/dist/extension.js:2:326173
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1050811)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:962791)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:7996)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:14091)
+	at u.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:17156)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:15608)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at p.acceptChunk (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11865)
+	at p.value (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11152)
+	at n.y (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/student/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19748) setContext undefined
+2024-03-09 20:53:27.564 [info] Extension host with pid 1325 exiting with code 0

@@ -165,3 +165,136 @@ a
 pwd
 git add -all
 yes
+git add- all
+git add --all
+git commit -m "Lab3 commit"
+git push
+mkdir subdirectory_Lab4
+man cd
+man -cd
+man man
+mkdir Lab4
+-cd Lab4/ENGR212_Abdullah_Abdulaziz
+cd Lab4/ENGR212_Abdullah_Abdulaziz
+mv Lab4 ENGR212_Abdullah_Abdulaziz/
+sudo apt install unzip
+unzip
+unzip 04_Lyrics.zip
+unzip 04_Lyrics
+cd Lab4
+cd ENGR212_Abdullah_Abdulaziz/Lab4
+unzip 04_Lyrics.zip
+rm*.zip
+rm *.zip
+pwd
+realpath ~
+cd Lyrics
+ls *.txt
+ls *.pdf
+ls *night*
+ls *.pdf *.txt
+[200~mv *night* Night/
+mv *night* /Night
+mkdir Night
+mv *night* /Night
+mv *night* Night
+ls
+ls Night
+grep -r "yeah"
+grep -r "yeah$"
+grep "^hey"
+aaa.Change your working directory to your new Lab4 directory. What command did you run to accomplish this? aa
+pwd
+mkdir Lab5
+cd ENGR212_Abdullah_Abdulaziz/Lab5
+cd Lab5 ENGR212_Abdullah_Abdulaziz/
+mv Lab5 ENGR212_Abdullah_Abdulaziz/
+rm Lab5
+cd ENGR212_Abdullah_Abdulaziz/
+rm Lab5
+-rm Lab5
+cd Lab4
+pwd
+./
+/.
+~
+ls -d /ENGR212_Abdullah_Abdulaziz/Lab4
+ls -d pwd
+ls -d Lab4
+ls -d /Lab4
+ls -d */
+ls -d ./*
+cd Lyrics
+ls 
+ls *.txt
+ls *.pdf *.txt
+ls *.pdf ls *.txt
+ls *.pdf
+mv Night /Lyrics
+ls Night
+grep -r "yeah"
+grep 'yeah$' Lyrics/*
+grep "yeah$" Lyrics/*
+grep "yeah$" Lyrics/
+grep "yeah$"
+grep "yeah$" Lyrics
+grep -r "yeah$" Lyrics
+cd ENGR212_Abdullah_Abdulaziz/
+cd Lab4
+cd Lyrics
+grep "yeah$"
+cd ENGR212_Abdullah_Abdulaziz/
+cd Lab4
+cd Lyrics
+grep "yeah$" *
+grep "yeah$" /*
+grep "yeah$"*
+cd Lyrics
+cd ENGR212_Abdullah_Abdulaziz/Lab4/Lyrics/
+grep -r "nobody"
+grep -l "'[0-9]"/ *
+grep -l "[0-9]"/ *
+grep -l "[0-9]" / *
+cd Lab3
+cd /ENGR212_Abdullah_Abdulaziz/Lab3
+cd ~ cd /ENGR212_Abdullah_Abdulaziz/Lab3
+cd 
+cd /ENGR212_Abdullah_Abdulaziz/Lab3
+cd ENGR212_Abdullah_Abdulaziz/Lab3
+git add --all
+git commit -m "Lab4 commit"
+git push
+cd Lab4
+cd ENGR212_Abdullah_Abdulaziz/
+cd ~
+cd ENGR212_Abdullah_Abdulaziz/Lab4
+git push
+git push --set-upstream origin main
+mkdir Lab5
+mv Lab5 ENGR212_Abdullah_Abdulaziz/
+cd Lab5
+cd ENGR212_Abdullah_Abdulaziz/Lab5
+ls
+pwd
+cd ENGR
+cd ENGR212/Abdullah_Abdulaziz
+cd ..
+cd .
+cd./
+cd ./
+cd ../
+cd /.
+cd /..
+cd ~
+cd ENGR212_Abdullah_Abdulaziz/Lab5
+ls -d
+ls -id
+tar -xvf 05_nuimages-v1.0-mini.tar
+tar -xvf 05_nuimages-v1.0-mini.tgz
+rm *.tgz
+mkdir Lab5_1
+rm Lab5_1
+rm -r Lab5_1/
+mkdir Images
+mv samples sweeps v1.0-mini Images/ 
+fg

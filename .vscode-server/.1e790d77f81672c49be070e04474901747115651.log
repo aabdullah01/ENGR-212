@@ -1,0 +1,27 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:32967 (IPv4)
+Extension host agent listening on 32967
+
+[04:14:56] 
+
+
+
+
+[04:14:56] Extension host agent started.
+[04:14:56] [127.0.0.1][d46f33a5][ManagementConnection] New connection established.
+[04:14:56] [127.0.0.1][b1216e24][ExtensionHostConnection] New connection established.
+[04:14:56] [127.0.0.1][b1216e24][ExtensionHostConnection] <1413> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[04:19:56] New EH opened, aborting shutdown
+[node.js fs] readdir with filetypes failed with error:  [Error: ENOENT: no such file or directory, scandir '/home/student/ENGR212_Abdullah_Abdulaziz/Lab5/ENGR212_Abdullah_Abdulaziz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/student/ENGR212_Abdullah_Abdulaziz/Lab5/ENGR212_Abdullah_Abdulaziz'
+}
