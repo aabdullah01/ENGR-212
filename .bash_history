@@ -298,3 +298,89 @@ rm -r Lab5_1/
 mkdir Images
 mv samples sweeps v1.0-mini Images/ 
 fg
+mkdir Lab5
+mv Lab5 ENGR212_Abdullah_Abdulaziz/
+cd ENGR212_Abdullah_Abdulaziz/Lab5
+ls -id
+tar -xf nuimages-v1.0-mini.tar
+tar -xf nuimages-v1.0-mini.t
+tar -xvf nuimages-v1.0-mini.tgz
+tar nuimages-v1.0-mini.tgz
+tar -xvf nuimages-v1.0-mini.tar
+tar -xvf 05_nuimages-v1.0-mini.tar
+tar -xvf 05_nuimages-v1.0-mini.tgz
+cd .
+cd ..
+mkdir Nuimages
+mv samples sweeps v1.0-mini /Nuimgaes
+mv samples Nuimages
+cd Lab5
+rm *.tgz
+mv samples ENGR212_Abdullah_Abdulaziz
+mv samples Lab5
+cd ..
+cd ~
+cd ENGR212_Abdullah_Abdulaziz/
+mkdir Lab5
+tar -xvf 05_nuimages-v1.0-mini.tgz
+cd Lab5
+tar -xvf 05_nuimages-v1.0-mini.tgz
+cd ..
+mv samples Nuimages
+cd Lab5
+mv samples Nuimages
+mv sweeps Nuimages/
+mv v1.0-mini/ Nuimages/
+pwd
+ls d
+ls -d
+.
+ls .
+rm *.tgz
+mv Nuimages Lab3
+mv Lab3 Nuimages
+pwd Lab5
+pwd student
+pwd
+~
+cd ~
+pwd
+cd Nuimages
+cd ENGR212_Abdullah_Abdulaziz/
+cd Lab5
+cd Nuimages/
+pwd
+/path/to/Nuimages
+cd Lab5
+cd ..
+/path/to/Nuimages
+cd ~
+cd .../Lab5
+cd ./Lab5
+cd ../student/
+cd ~/ENGR212_Abdullah_Abdulaziz/Lab5
+cd Nuimages/
+ls
+cd sweeps/CAM_BACK/
+ls
+ls *n013
+ls *no13.jpg
+ls no13_*
+ls n013_*
+ls n013-*
+ls -1 n013-* | wc -l
+cd ..
+ls n013-*
+man -anme
+man -name
+find sweeps/CAM_BACK -name "n013-*"
+find -name n013-* -exec cp {} ../defective/ \;
+mkdir defectvie
+find -name n013-* -exec cp {} ../defective/ \;
+mkdir -p ../defective
+find -name n013-* -exec cp {} ../defective/ \;
+git add --all
+git add -all
+git add --all
+git commit -m "Lab5 commit"
+git push
