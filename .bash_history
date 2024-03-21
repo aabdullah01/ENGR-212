@@ -384,3 +384,59 @@ git add -all
 git add --all
 git commit -m "Lab5 commit"
 git push
+cd ENGR212_Abdullah_Abdulaziz/
+mkdir Lab6
+cp -r Lyrics Lab6
+cp -r Lab4/Lyrics Lab6
+cd Lab6
+ls -l
+cd Lyrics
+ls -l
+chmod 260 all_my_life.txt
+ls -l
+ls -l all_my_life.txt 
+cat all_my_life.txt 
+chmod u+r all_my_life.txt 
+ls -l all_my_life.txt 
+chmod g-w all_my_life.txt 
+ls -l all_my_life.txt 
+chmod go+rw Lyrics/*
+chmod go+rw home/student/ENGR212_Abdullah_Abdulaziz/Lab6/Lyrics/*
+cd ..
+chmod go+rw Lyrics/*
+cd Lyrics/
+ls -l
+chmod u-x Night/
+ls -l Night/
+sudo ls -l Night/
+cat Night/dance_the_night.pdf 
+chmod u+x Night/
+ls -l Night/
+chmod 777 ~
+ls -l
+ls -l ~
+cd ~
+ls -l
+cd ENGR212_Abdullah_Abdulaziz/
+ls -l
+umask
+cd Lab6/Lyrics/
+umask
+umask -S
+umask 077
+umask -S
+groups
+cd ~
+git add --all
+git commit -m "Lab6 commit"
+git push
+vim example1.txt
+cd ENGR212_Abdullah_Abdulaziz/
+mkdir Lab7
+cd Lab7
+vim example1.txt
+ls example1.txt 
+ls Lab7
+cd ..
+ls Lab7
+vim example1.txt
