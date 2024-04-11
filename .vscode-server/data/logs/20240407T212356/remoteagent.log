@@ -1,0 +1,10 @@
+2024-04-07 21:23:56.563 [info] 
+
+
+
+
+2024-04-07 21:23:56.586 [info] Extension host agent started.
+2024-04-07 21:23:56.972 [info] [127.0.0.1][9a1a1a73][ManagementConnection] New connection established.
+2024-04-07 21:23:56.978 [info] [127.0.0.1][50b59fe5][ExtensionHostConnection] New connection established.
+2024-04-07 21:23:57.091 [info] [127.0.0.1][50b59fe5][ExtensionHostConnection] <1428> Launched Extension Host Process.
+2024-04-07 21:28:56.588 [info] New EH opened, aborting shutdown

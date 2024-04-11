@@ -440,3 +440,80 @@ ls Lab7
 cd ..
 ls Lab7
 vim example1.txt
+cd ENGR212_Abdullah_Abdulaziz/Lab7
+ls 
+vim example1.txt 
+cd ..
+ls
+cd Lab6
+ls
+Lyrics
+cd Lyrics/
+cp all_my_life.txt ~/ENGR212_Abdullah_Abdulaziz/Lab7/
+vim all_my_life.txt 
+cd ~
+git all --all
+git add --all
+git commit -m "Lab7 commit"
+git push
+cd ./
+cd ENGR212_Abdullah_Abdulaziz/
+git push
+git add --all 
+git commit -m "Lab6 commit"
+git push
+git push --set-upstream origin main
+cd Lab6
+git push
+cd ~
+git push
+cd ./ENGR212_Abdullah_Abdulaziz/
+cd Lab7
+git add --all
+git commit -m "Lab7 commit"
+cd ENGR212_Abdullah_Abdulaziz/
+cd Lab7
+vim example1.txt 
+ls
+vim example1.txt
+vim example1.txt 
+ls
+ls -al
+cd ..
+ls Lab6
+cd Lab6
+cd Lyrics
+ls -al
+cd /.
+cd/..
+cd /..
+cd Lab7
+cd ~
+cd Lab7
+cd ENGR212_Abdullah_Abdulaziz/
+mkdir Lab8
+vim substitution
+cat substitution
+cd Lab8
+cat substitution
+cd .
+cd/.
+cd /.
+cd ~
+cd ENGR212_Abdullah_Abdulaziz/
+cd Lab8
+vim 08_Iris_data.csv 
+--help
+sort --help
+sort -t',' -kNF,NF Iris_data.csv > Iris_data_sorted.csv
+sort -t',' -k6,6 Iris_data.csv > Iris_data_sorted.csv
+sort -t',' -k6,6 08_iris_data.csv > iris_data_sorted.csv
+sort +6 08_iris_data.csv > iris_data_sorted.csv
+cd ./
+cd ../
+sort +6 08_iris_data.csv > iris_data_sorted.csv
+cd ENGR212_Abdullah_Abdulaziz/Lab8
+cat 08_Iris_data.csv 
+sort 08_Iris_data.csv 
+sort +1 08_Iris_data.csv 
+sort +6 08_iris_data.csv > iris_data_sorted.csv
